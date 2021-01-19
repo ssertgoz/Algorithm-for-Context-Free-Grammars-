@@ -1,6 +1,5 @@
 
 #Serdar Sertgöz
-#230201030
 
 
 
